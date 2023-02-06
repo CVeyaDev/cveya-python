@@ -7,9 +7,9 @@ doc = DocxTemplate("Resume_Sample_Functional.docx")
 # create context dictionary
 context = {
     "name": " Mohamad Al bo3bo3 ",
-    "address": "janah",
+    "address": "berlin",
     "phoneNumber": "69 696 969",
-    "email": "sol3om@gmail.com",
+    "email": "hitler@gmail.com",
 }
 
 # render context into the document object
